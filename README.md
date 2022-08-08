@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hello World! 👋
 
 
-**unclebey/unclebey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I am Abiodun Aderibigbe "Sir Bey"
 - 🌱 with an overwhelming zeal to deploy his skills, experience and zeal in technology management, development and advocate to postively influence the Africa and global space in the postive direction of the Economy.
